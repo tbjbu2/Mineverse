@@ -1,0 +1,2 @@
+# mineverse
+Mineverse Discord Bot
