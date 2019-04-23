@@ -1,8 +1,6 @@
 # Mineverse
 Mineverse Discord Bot
 
-[![Discord Bots](https://discordbots.org/api/widget/535174541958184971.svg)](https://discordbots.org/bot/535174541958184971)
-
 Explore, mine, build, craft, and fight, all using reactions in an infinite procedurally generated multiplayer world!
 
 <img src="https://i.imgur.com/20iPJt6.png"><br>
